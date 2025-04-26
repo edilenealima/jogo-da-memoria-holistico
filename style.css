@@ -20,14 +20,14 @@ h1 {
   margin: 10px 0 20px;
 }
 .memory-game {
-  width: 800px; /* aumentamos aqui */
+  width: 800px; 
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 .memory-card {
-  width: 130px; /* aumentamos aqui */
-  height: 130px;
+  width: 150px; 
+  height: 150px;
   margin: 10px;
   position: relative;
   transform-style: preserve-3d;
