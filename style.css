@@ -26,8 +26,8 @@ h1 {
   justify-content: center;
 }
 .memory-card {
-  width: 130px; /* aumentamos aqui */
-  height: 130px;
+  width: 150px; /* aumentamos aqui */
+  height: 150px;
   margin: 10px;
   position: relative;
   transform-style: preserve-3d;
